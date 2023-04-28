@@ -1,5 +1,5 @@
 # GPT_Solutions
-A one-stop solution for GPT Problems and more...
+A one-stop solution for GPT Problems and more... All you need it your OpenAI key and the required libraries installed on your device.
 
 This application brings all the popular use cases of GPT and Prompt Engineering under one roof. It helps you work with the following use cases -
     1. General Queries
